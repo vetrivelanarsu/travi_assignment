@@ -1,0 +1,531 @@
+{
+    "books":[
+      {
+        "heading": "Web Design templates Selection",
+        "avatar": "https://reqres.in/img/faces/8-image.jpg",
+        "location": "New York",
+        "date": "16 Jun 2023",
+        "time": "02:00 PM ETD",
+        "speaker": "Robert Fox",
+        "eventmode": "Online",
+        "fee": 50,
+        "language": "English",
+        "days": [
+          {
+            "day": 1,
+            "date": "16 August 2023",
+            "slots": [
+              {
+                "time": {
+                  "to": "11:00 AM",
+                  "from": "12:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "https://reqres.in/img/faces/9-image.jpg",
+                  "name": "Jiri Prochaszka"
+                }
+              },
+              {
+                "time": {
+                  "to": "12:00 AM",
+                  "from": "01:00 PM"
+                },
+                "content": "lopsum dsef hedfuf gsfsfs ugusfhs usgfsfs ugcudsbfs gfdsd fsjfsuf sfscf sudfsf sfsjfs.",
+                "speaker": {
+                  "img": "https://reqres.in/img/faces/11-image.jpg",
+                  "name": "Brady Mendes"
+                }
+              },
+              {
+                "time": {
+                  "to": "01:00 PM",
+                  "from": "02:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "https://reqres.in/img/faces/8-image.jpg",
+                  "name": "Chandler Michael"
+                }
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "date": "14 August 2023",
+            "slots": [
+              {
+                "time": {
+                  "to": "11:00 AM",
+                  "from": "12:00 PM"
+                },
+                "content": "sfusf sdhfieswnf uihdioaswdf iohdsfsw ihscdsk feshfd swidha dajdioadja dai bsdufswmd .",
+                "speaker": {
+                  "img": "https://reqres.in/img/faces/10-image.jpg",
+                  "name": "Jiri Prochaszka"
+                }
+              },
+              {
+                "time": {
+                  "to": "12:00 AM",
+                  "from": "01:00 PM"
+                },
+                "content": "pasodhad haidfswea i wdwsedf  zcdb sfhsuif oncisdafcs ojpbjsbalbcbsabf.",
+                "speaker": {
+                  "img": "https://reqres.in/img/faces/9-image.jpg",
+                  "name": "Brady Mendes"
+                }
+              },
+              {
+                "time": {
+                  "to": "01:00 PM",
+                  "from": "02:00 PM"
+                },
+                "content": "jsdfuisfs adabidoa wdnsjkbakg dsgfasdfslfsdbf sdfsbfjksb sbvsjkbdfsa shchdsvfvhdsvf .",
+                "speaker": {
+                  "img": "https://reqres.in/img/faces/10-image.jpg",
+                  "name": "Chandler Michael"
+                }
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "date": "16 August 2023",
+            "slots": [
+              {
+                "time": {
+                  "to": "11:00 AM",
+                  "from": "12:00 PM"
+                },
+                "content": "sdhui jbdfuz jkdbgvlekve jdbvjdbvd ibvcsx fa s dcsbdczxb sdbcdjksb sdjfjs csnmasda djzcf sasu.",
+                "speaker": {
+                  "img": "https://reqres.in/img/faces/12-image.jpg",
+                  "name": "Jiri Prochaszka"
+                }
+              },
+              {
+                "time": {
+                  "to": "12:00 AM",
+                  "from": "01:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "https://reqres.in/img/faces/12-image.jpg",
+                  "name": "Brady Mendes"
+                }
+              },
+              {
+                "time": {
+                  "to": "01:00 PM",
+                  "from": "02:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "https://reqres.in/img/faces/12-image.jpg",
+                  "name": "Chandler Michael"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Web Design templates Selection",
+        "avatar": "https://reqres.in/img/faces/12-image.jpg",
+        "location": "New York",
+        "date": "16 Jun 2023",
+        "time": "02:00 PM ETD",
+        "speaker": "Robert Fox",
+        "eventmode": "Online",
+        "fee": 50,
+        "language": "English",
+        "days": [
+          {
+            "day": 1,
+            "date": "16 August 2023",
+            "slots": [
+              {
+                "time": {
+                  "to": "11:00 AM",
+                  "from": "12:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Jiri Prochaszka"
+                }
+              },
+              {
+                "time": {
+                  "to": "12:00 AM",
+                  "from": "01:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Brady Mendes"
+                }
+              },
+              {
+                "time": {
+                  "to": "01:00 PM",
+                  "from": "02:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Chandler Michael"
+                }
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "date": "16 August 2023",
+            "slots": [
+              {
+                "time": {
+                  "to": "11:00 AM",
+                  "from": "12:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Jiri Prochaszka"
+                }
+              },
+              {
+                "time": {
+                  "to": "12:00 AM",
+                  "from": "01:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Brady Mendes"
+                }
+              },
+              {
+                "time": {
+                  "to": "01:00 PM",
+                  "from": "02:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Chandler Michael"
+                }
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "date": "16 August 2023",
+            "slots": [
+              {
+                "time": {
+                  "to": "11:00 AM",
+                  "from": "12:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Jiri Prochaszka"
+                }
+              },
+              {
+                "time": {
+                  "to": "12:00 AM",
+                  "from": "01:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Brady Mendes"
+                }
+              },
+              {
+                "time": {
+                  "to": "01:00 PM",
+                  "from": "02:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Chandler Michael"
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "heading": "Web Design templates Selection",
+        "avatar": "https://reqres.in/img/faces/9-image.jpg",
+        "location": "New York",
+        "date": "16 Jun 2023",
+        "time": "02:00 PM ETD",
+        "speaker": "Robert Fox",
+        "eventmode": "Online",
+        "fee": 50,
+        "language": "English",
+        "days": [
+          {
+            "day": 1,
+            "date": "16 August 2023",
+            "slots": [
+              {
+                "time": {
+                  "to": "11:00 AM",
+                  "from": "12:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Jiri Prochaszka"
+                }
+              },
+              {
+                "time": {
+                  "to": "12:00 AM",
+                  "from": "01:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Brady Mendes"
+                }
+              },
+              {
+                "time": {
+                  "to": "01:00 PM",
+                  "from": "02:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Chandler Michael"
+                }
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "date": "16 August 2023",
+            "slots": [
+              {
+                "time": {
+                  "to": "11:00 AM",
+                  "from": "12:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Jiri Prochaszka"
+                }
+              },
+              {
+                "time": {
+                  "to": "12:00 AM",
+                  "from": "01:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Brady Mendes"
+                }
+              },
+              {
+                "time": {
+                  "to": "01:00 PM",
+                  "from": "02:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Chandler Michael"
+                }
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "date": "16 August 2023",
+            "slots": [
+              {
+                "time": {
+                  "to": "11:00 AM",
+                  "from": "12:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Jiri Prochaszka"
+                }
+              },
+              {
+                "time": {
+                  "to": "12:00 AM",
+                  "from": "01:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Brady Mendes"
+                }
+              },
+              {
+                "time": {
+                  "to": "01:00 PM",
+                  "from": "02:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Chandler Michael"
+                }
+              }
+            ]
+          }
+        ]
+      },    
+      {
+        "heading": "Web Design templates Selection",
+        "avatar": "https://reqres.in/img/faces/10-image.jpg",
+        "location": "New York",
+        "date": "16 Jun 2023",
+        "time": "02:00 PM ETD",
+        "speaker": "Robert Fox",
+        "eventmode": "Online",
+        "fee": 50,
+        "language": "English",
+        "days": [
+          {
+            "day": 1,
+            "date": "16 August 2023",
+            "slots": [
+              {
+                "time": {
+                  "to": "11:00 AM",
+                  "from": "12:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Jiri Prochaszka"
+                }
+              },
+              {
+                "time": {
+                  "to": "12:00 AM",
+                  "from": "01:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Brady Mendes"
+                }
+              },
+              {
+                "time": {
+                  "to": "01:00 PM",
+                  "from": "02:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Chandler Michael"
+                }
+              }
+            ]
+          },
+          {
+            "day": 2,
+            "date": "16 August 2023",
+            "slots": [
+              {
+                "time": {
+                  "to": "11:00 AM",
+                  "from": "12:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Jiri Prochaszka"
+                }
+              },
+              {
+                "time": {
+                  "to": "12:00 AM",
+                  "from": "01:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Brady Mendes"
+                }
+              },
+              {
+                "time": {
+                  "to": "01:00 PM",
+                  "from": "02:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Chandler Michael"
+                }
+              }
+            ]
+          },
+          {
+            "day": 3,
+            "date": "16 August 2023",
+            "slots": [
+              {
+                "time": {
+                  "to": "11:00 AM",
+                  "from": "12:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Jiri Prochaszka"
+                }
+              },
+              {
+                "time": {
+                  "to": "12:00 AM",
+                  "from": "01:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Brady Mendes"
+                }
+              },
+              {
+                "time": {
+                  "to": "01:00 PM",
+                  "from": "02:00 PM"
+                },
+                "content": "Vestibulum vel eros vel metus lacinia feugiata nec metus.",
+                "speaker": {
+                  "img": "",
+                  "name": "Chandler Michael"
+                }
+              }
+            ]
+          }
+        ]
+      }
+      
+      
+  
+      
+  
+      
+  
+    ]
+  }
